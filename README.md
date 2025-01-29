@@ -2,6 +2,10 @@
 
 Hi there! 👋 I'm Lindsey, an online student at Colorado State University (CSU) studying computer science. This GitHub account serves as a space where I'm learning and practicing various concepts related to programming, software development, and version control using Git and GitHub.
 
+http://googleusercontent.com/image_generation_content/1
+
+
+
 ## About Me
 
 - 🎓 Currently studying computer science at CSU.
